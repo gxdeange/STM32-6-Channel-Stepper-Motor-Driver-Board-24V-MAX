@@ -8,8 +8,8 @@ Features include:
 
 * Reverse Polarity Protection (with LED indicator)
 * Adjustable current setting via VREF potentiometer)
-* 12 X GPIO solder pads (can use standard 2.54mm Dupont Header pins)
-* 4 of the GPIO solder pads with R/C input filtering (PC1, PC0, PA1, PB9)
+* 14 X GPIO solder pads (can use standard 2.54mm Dupont Header pins)
+* 6 of the GPIO solder pads with R/C input filtering (PC3, PC2, PC1, PC0, PA1, PB9)
 * USB Mini Connector
 * Small Form Factor (Approx 36mm X 64mm)
 
