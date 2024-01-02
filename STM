@@ -1,0 +1,3 @@
+# PROGRAMMING NOTE
+
+This MCU does not use an external crystal and any code that uses the Internal RC Clock (HSI).
