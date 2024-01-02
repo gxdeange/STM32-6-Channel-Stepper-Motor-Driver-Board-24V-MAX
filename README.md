@@ -48,3 +48,7 @@ Motor 6:
 * EN6 -  PC4
 
 <img width="953" alt="STM32 6-CHANNEL PIN MAPPINGS" src="https://github.com/gxdeange/STM32-6-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/4922b281-1117-4433-bf1b-916a516e2396">
+
+# PROGRAMMING NOTE
+
+This MCU does not use an external crystal and any code that uses the Internal RC Clock (HSI).
