@@ -15,6 +15,12 @@ Features include:
 
   <img width="388" alt="STM32 6-CHANNEL STEPPER MOTOR DRIVER BOARD" src="https://github.com/gxdeange/STM32-6-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/89e7c1cc-c3b4-4a7e-bd3b-56b2b17136bd">
 
+# STM32 4-Channel Stepper Motor Driver Board @24V MAX With Buffered, Schmitt Trigger Inputs (10 X GPIO's)
+
+* 10 of the GPIO solder pads with R/C input filtering (PC2, PC3, PC0, PC1, PA1, PB9, PA4, PA12, PB4, PB6)
+
+<img width="391" alt="STM32F401RCT6 6-Channel Stepper Motor Driver Buffered Board 24V Max" src="https://github.com/gxdeange/STM32-6-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/649f9db4-d4c0-4f1b-9bfa-82feeb97765d">
+
 # Motor Driver / MCU Pin Mappings
 
 ![image](https://github.com/gxdeange/STM32-6-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/d87c9526-b2da-4b74-9b9c-753a8a06ca2d)
