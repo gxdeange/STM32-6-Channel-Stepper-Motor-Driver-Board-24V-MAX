@@ -19,7 +19,7 @@ Features include:
 
 * 10 of the GPIO solder pads with R/C input filtering (PC2, PC3, PC0, PC1, PA1, PB9, PA4, PA12, PB4, PB6)
 
-<img width="391" alt="STM32F401RCT6 6-Channel Stepper Motor Driver Buffered Board 24V Max" src="https://github.com/gxdeange/STM32-6-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/649f9db4-d4c0-4f1b-9bfa-82feeb97765d">
+  <img width="388" alt="STM32F401RCT6 6-Channel Stepper Motor Buffered Driver Board 24V MAx " src="https://github.com/gxdeange/STM32-6-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/4112a82d-11dd-40d9-9eb1-6c6bae7ca69a">
 
 # Motor Driver / MCU Pin Mappings
 
