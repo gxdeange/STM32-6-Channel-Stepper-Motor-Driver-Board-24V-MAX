@@ -18,6 +18,7 @@ Features include:
 # STM32 4-Channel Stepper Motor Driver Board @24V MAX With Buffered, Schmitt Trigger Inputs (10 X GPIO's)
 
 * 10 of the GPIO solder pads have buffered Schmitt trigger inputs (PC2, PC3, PC0, PC1, PA1, PB9, PA4, PA12, PB4, PB6)
+* Inputs for above 10 GPIO's are pulled High (3.3V via 10K resistor)
 
   <img width="388" alt="STM32F401RCT6 6-Channel Stepper Motor Buffered Driver Board 24V MAx " src="https://github.com/gxdeange/STM32-6-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/4112a82d-11dd-40d9-9eb1-6c6bae7ca69a">
 
