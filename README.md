@@ -1,4 +1,4 @@
-# STM32 4-Channel Stepper Motor Driver Board @24V MAX
+# STM32 4-Channel Stepper Motor Driver Board @24V MAX With RC Filter Inputs (6 X GPIO's)
 
 STM32F401RCT6 based Stepper Motor Driver capable of running at 24V MAX.
 
