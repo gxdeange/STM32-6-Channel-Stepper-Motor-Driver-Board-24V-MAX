@@ -12,6 +12,7 @@ Features include:
 * 6 of the GPIO solder pads with R/C input filtering (PC3, PC2, PC1, PC0, PA1, PB9)
 * USB Mini Connector
 * MicroStep at 1/8
+* **All GPIO Inputs / Outputs are rated at 3.3V**
 * Small Form Factor (Approx 36mm X 64mm)
 
   <img width="388" alt="STM32 6-CHANNEL STEPPER MOTOR DRIVER BOARD" src="https://github.com/gxdeange/STM32-6-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/89e7c1cc-c3b4-4a7e-bd3b-56b2b17136bd">
