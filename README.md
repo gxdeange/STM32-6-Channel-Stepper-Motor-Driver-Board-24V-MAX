@@ -22,18 +22,21 @@ Features include:
   <img width="427" alt="STM32F401RCT6 Stepper Driver RC MS" src="https://github.com/gxdeange/STM32-6-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/c3c18bcc-e2c7-45e8-bfbe-b9e61ec2fc6f">
 
 * M0 and M1 Slide Switches for Adjustable Micro Stepping
+* Small Form Factor (Approx 41mm X 64mm)
 
 # STM32 6-Channel Stepper Motor Driver Board @24V MAX With Buffered, Schmitt Trigger Inputs (10 X GPIO's)
 
 * 10 of the GPIO solder pads have buffered Schmitt trigger inputs (PC2, PC3, PC0, PC1, PA1, PB9, PA4, PA12, PB4, PB6)
 * Inputs for above 10 GPIO's are pulled High (3.3V via 10K resistor)
 * MicroStep at 1/8
+* Small Form Factor (Approx 36mm X 64mm)
 
   <img width="388" alt="STM32F401RCT6 6-Channel Stepper Motor Buffered Driver Board 24V MAx " src="https://github.com/gxdeange/STM32-6-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/4112a82d-11dd-40d9-9eb1-6c6bae7ca69a">
 
 # STM32 6-Channel Stepper Motor Driver Board @24V MAX With Buffered, Schmitt Trigger Inputs (10 X GPIO's) with Adjustable Micro Stepping
 
 * M0 and M1 Slide Switches for Adjustable Micro Stepping
+* Small Form Factor (Approx 41mm X 64mm)
 
   <img width="441" alt="STM32F401RCT6 6 Channel Stepper Buffered MS" src="https://github.com/gxdeange/STM32-6-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/560ba881-4fd3-4571-a874-2339c31aaa5b">
   
