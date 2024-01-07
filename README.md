@@ -28,7 +28,7 @@ Features include:
 
 * M0 and M1 Slide Switches for Adjustable Micro Stepping
 
-  <img width="450" alt="STM32F041RCT6 6 Channel Stepper Motor Buffered MS" src="https://github.com/gxdeange/STM32-6-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/5f4575fc-fef8-4abd-8680-485d3d63ac36">
+  <img width="441" alt="STM32F401RCT6 6 Channel Stepper Buffered MS" src="https://github.com/gxdeange/STM32-6-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/560ba881-4fd3-4571-a874-2339c31aaa5b">
   
 ![image](https://github.com/gxdeange/STM32-6-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/7dcd851c-5134-4cc1-b7cb-51486d36d430)
 
@@ -37,7 +37,7 @@ Features include:
 ![image](https://github.com/gxdeange/STM32-6-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/d87c9526-b2da-4b74-9b9c-753a8a06ca2d)
 
 
-<img width="953" alt="STM32 6-CHANNEL PIN MAPPINGS" src="https://github.com/gxdeange/STM32-6-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/4922b281-1117-4433-bf1b-916a516e2396">
+  <img width="953" alt="STM32 6-CHANNEL PIN MAPPINGS" src="https://github.com/gxdeange/STM32-6-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/4922b281-1117-4433-bf1b-916a516e2396">
 
 # PROGRAMMING NOTE
 
